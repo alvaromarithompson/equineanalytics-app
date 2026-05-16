@@ -1,0 +1,1 @@
+# equineanalytics-app
